@@ -1,8 +1,6 @@
 # EYESAY
-
 ### "Innovating Communication Tools for the Challenged with Eye-Tracking"
 ![LOGO](docs/EYESAY_LOGO.png)
-
 
 2024 Solution Challenge - GDSC KU
 
